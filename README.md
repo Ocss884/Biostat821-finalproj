@@ -13,3 +13,4 @@ The US Vaccinations Website is a simple website presenting the recent progress o
 * Lucy Lin: task 2 and task 3  
 * Wenyue Zhuo: task 4 and task 5  
 
+### Architecture:
