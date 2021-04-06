@@ -9,7 +9,7 @@ The US Vaccinations Website is a simple website presenting the recent progress o
 5. Table: presenting the proportion of people who have finished two doses of vaccinations for each state
 
 ### **Assignemnt of Tasks:**
-Junrong Lin: task 1
-Lucy Lin: task 2 and task 3
-Wenyue Zhuo: task 4 and task 5
+Junrong Lin: task 1  
+Lucy Lin: task 2 and task 3  
+Wenyue Zhuo: task 4 and task 5  
 
