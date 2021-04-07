@@ -3,13 +3,13 @@ The US Covid-19 Vaccinations is a simple web application presenting the recent p
 
 ## **Features Intended to Implement**  
 1. Interactive US Map: Create an interative US map visualizing the current total doses allocation by state/territory.
-2. Time slider: Provide a slider for vaccine allocation history
-3. Horizontal bar Plot: Visualizing the trend of the dose allocation against new cases in US and each state
-4. Bubble by Companies: Visualizing the allocation of Pfizer, Moderna, and Johnson & Johnson vaccine in each state. Create a drop-down list for user's choice of interest.
-5. Stats Table: Presenting the proportion of people who have finished two doses of vaccinations for each state
+2. Time slider: Provide a slider for vaccine allocation history.
+3. Horizontal bar Plot: Visualize the trend of the dose allocation against new cases in each state and the US overall.
+4. Bubble by Companies: Visualize the allocation of Pfizer, Moderna, and Johnson & Johnson vaccines in each state; Create a drop-down list for user's choices of interest.
+5. Stats Table: Present the proportion of people who have finished two doses of vaccinations in each state; Create a drop-down list for user's choices of interest for states.
 
-## **About the Data**  
-All data are from [Data.CDC.gov](https://data.cdc.gov/browse?category=Vaccinations)
+## **Data Source**  
+All data are obtained from [Data.CDC.gov](https://data.cdc.gov/browse?category=Vaccinations)
 
 ## **Member and Contribution**  
 * Web building, Server setting: Junrong Lin [@Ocss884](https://github.com/Ocss884)
