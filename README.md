@@ -16,4 +16,4 @@ All data are from [Data.CDC.gov](https://data.cdc.gov/browse?category=Vaccinatio
 * Data analysis, Visualization: Lucy Lin [@lucylin1997](https://github.com/lucylin1997), Wenyue Zhuo [@jennyzz17](https://github.com/jennyzz17)
 
 ## Architecture  
-This application uses Flask framwork and SQLite database. [Ploty](https://plotly.com/) and [mpld3](https://mpld3.github.io/) are used for visualization.
+This application uses [Flask](https://flask.palletsprojects.com/en/1.1.x/) framwork and SQLite database. [Ploty](https://plotly.com/) and [mpld3](https://mpld3.github.io/) are used for visualization.
