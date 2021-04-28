@@ -1,0 +1,1000 @@
+[{"jurisdiction":"Connecticut","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"40400","_2nd_dose_allocations":"40400"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"15400","_2nd_dose_allocations":"15400"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"77700","_2nd_dose_allocations":"77700"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"15500","_2nd_dose_allocations":"15500"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"12100","_2nd_dose_allocations":"12100"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"7300","_2nd_dose_allocations":"7300"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"98500","_2nd_dose_allocations":"98500"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"125400","_2nd_dose_allocations":"125400"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"95200","_2nd_dose_allocations":"95200"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"38500","_2nd_dose_allocations":"38500"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"1200","_2nd_dose_allocations":"1200"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"10700","_2nd_dose_allocations":"10700"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"8100","_2nd_dose_allocations":"8100"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"66500","_2nd_dose_allocations":"66500"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"126700","_2nd_dose_allocations":"126700"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"17600","_2nd_dose_allocations":"17600"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"93300","_2nd_dose_allocations":"93300"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"20800","_2nd_dose_allocations":"20800"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"53700","_2nd_dose_allocations":"53700"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"234500","_2nd_dose_allocations":"234500"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"111100","_2nd_dose_allocations":"111100"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"48900","_2nd_dose_allocations":"48900"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"32400","_2nd_dose_allocations":"32400"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"112100","_2nd_dose_allocations":"112100"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"55000","_2nd_dose_allocations":"55000"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"73400","_2nd_dose_allocations":"73400"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"29900","_2nd_dose_allocations":"29900"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"72200","_2nd_dose_allocations":"72200"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"110600","_2nd_dose_allocations":"110600"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"60600","_2nd_dose_allocations":"60600"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"128600","_2nd_dose_allocations":"128600"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"64400","_2nd_dose_allocations":"64400"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"32600","_2nd_dose_allocations":"32600"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"50700","_2nd_dose_allocations":"50700"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"23100","_2nd_dose_allocations":"23100"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"42200","_2nd_dose_allocations":"42200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"293500","_2nd_dose_allocations":"293500"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"34300","_2nd_dose_allocations":"34300"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"31300","_2nd_dose_allocations":"31300"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"67100","_2nd_dose_allocations":"67100"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"20700","_2nd_dose_allocations":"20700"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"60900","_2nd_dose_allocations":"60900"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"11700","_2nd_dose_allocations":"11700"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"8500","_2nd_dose_allocations":"8500"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"9300","_2nd_dose_allocations":"9300"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"30500","_2nd_dose_allocations":"30500"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"6400","_2nd_dose_allocations":"6400"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"76200","_2nd_dose_allocations":"76200"}
+,{"jurisdiction":"California","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"428600","_2nd_dose_allocations":"428600"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"15900","_2nd_dose_allocations":"15900"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"32100","_2nd_dose_allocations":"32100"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"15200","_2nd_dose_allocations":"15200"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"17800","_2nd_dose_allocations":"17800"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"46000","_2nd_dose_allocations":"46000"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"81700","_2nd_dose_allocations":"81700"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-05-03T00:00:00.000","_1st_dose_allocations":"161100","_2nd_dose_allocations":"161100"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"40400","_2nd_dose_allocations":"40400"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"15400","_2nd_dose_allocations":"15400"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"77700","_2nd_dose_allocations":"77700"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"15500","_2nd_dose_allocations":"15500"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"12100","_2nd_dose_allocations":"12100"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"7300","_2nd_dose_allocations":"7300"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"98500","_2nd_dose_allocations":"98500"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"125400","_2nd_dose_allocations":"125400"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"95200","_2nd_dose_allocations":"95200"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"38500","_2nd_dose_allocations":"38500"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"1200","_2nd_dose_allocations":"1200"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"10700","_2nd_dose_allocations":"10700"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"8100","_2nd_dose_allocations":"8100"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"66500","_2nd_dose_allocations":"66500"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"126700","_2nd_dose_allocations":"126700"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"17600","_2nd_dose_allocations":"17600"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"93300","_2nd_dose_allocations":"93300"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"20800","_2nd_dose_allocations":"20800"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"53700","_2nd_dose_allocations":"53700"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"234500","_2nd_dose_allocations":"234500"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"111100","_2nd_dose_allocations":"111100"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"48900","_2nd_dose_allocations":"48900"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"32400","_2nd_dose_allocations":"32400"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"112100","_2nd_dose_allocations":"112100"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"55000","_2nd_dose_allocations":"55000"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"73400","_2nd_dose_allocations":"73400"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"29900","_2nd_dose_allocations":"29900"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"72200","_2nd_dose_allocations":"72200"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"110600","_2nd_dose_allocations":"110600"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"60600","_2nd_dose_allocations":"60600"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"128600","_2nd_dose_allocations":"128600"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"64400","_2nd_dose_allocations":"64400"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"32600","_2nd_dose_allocations":"32600"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"50700","_2nd_dose_allocations":"50700"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"23100","_2nd_dose_allocations":"23100"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"42200","_2nd_dose_allocations":"42200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"293500","_2nd_dose_allocations":"293500"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"34300","_2nd_dose_allocations":"34300"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"31300","_2nd_dose_allocations":"31300"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"67100","_2nd_dose_allocations":"67100"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"20700","_2nd_dose_allocations":"20700"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"60900","_2nd_dose_allocations":"60900"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"11700","_2nd_dose_allocations":"11700"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"8500","_2nd_dose_allocations":"8500"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"9300","_2nd_dose_allocations":"9300"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"30500","_2nd_dose_allocations":"30500"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"6400","_2nd_dose_allocations":"6400"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"76200","_2nd_dose_allocations":"76200"}
+,{"jurisdiction":"California","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"428600","_2nd_dose_allocations":"428600"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"15900","_2nd_dose_allocations":"15900"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"32100","_2nd_dose_allocations":"32100"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"17800","_2nd_dose_allocations":"17800"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"46000","_2nd_dose_allocations":"46000"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"81700","_2nd_dose_allocations":"81700"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-04-26T00:00:00.000","_1st_dose_allocations":"161100","_2nd_dose_allocations":"161100"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"40400","_2nd_dose_allocations":"40400"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"15400","_2nd_dose_allocations":"15400"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"77700","_2nd_dose_allocations":"77700"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"15500","_2nd_dose_allocations":"15500"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"12100","_2nd_dose_allocations":"12100"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"7300","_2nd_dose_allocations":"7300"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"98500","_2nd_dose_allocations":"98500"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"125400","_2nd_dose_allocations":"125400"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"95200","_2nd_dose_allocations":"95200"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"38500","_2nd_dose_allocations":"38500"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"1200","_2nd_dose_allocations":"1200"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"10700","_2nd_dose_allocations":"10700"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"8100","_2nd_dose_allocations":"8100"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"66500","_2nd_dose_allocations":"66500"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"126700","_2nd_dose_allocations":"126700"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"17600","_2nd_dose_allocations":"17600"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"93300","_2nd_dose_allocations":"93300"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"20800","_2nd_dose_allocations":"20800"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"53700","_2nd_dose_allocations":"53700"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"234500","_2nd_dose_allocations":"234500"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"111100","_2nd_dose_allocations":"111100"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"48900","_2nd_dose_allocations":"48900"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"32400","_2nd_dose_allocations":"32400"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"112100","_2nd_dose_allocations":"112100"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"55000","_2nd_dose_allocations":"55000"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"73400","_2nd_dose_allocations":"73400"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"29900","_2nd_dose_allocations":"29900"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"72200","_2nd_dose_allocations":"72200"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"110600","_2nd_dose_allocations":"110600"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"60600","_2nd_dose_allocations":"60600"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"128600","_2nd_dose_allocations":"128600"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"64400","_2nd_dose_allocations":"64400"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"32600","_2nd_dose_allocations":"32600"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"50700","_2nd_dose_allocations":"50700"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"23100","_2nd_dose_allocations":"23100"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"42200","_2nd_dose_allocations":"42200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"293500","_2nd_dose_allocations":"293500"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"34300","_2nd_dose_allocations":"34300"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"31300","_2nd_dose_allocations":"31300"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"67100","_2nd_dose_allocations":"67100"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"20700","_2nd_dose_allocations":"20700"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"60900","_2nd_dose_allocations":"60900"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"11700","_2nd_dose_allocations":"11700"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"8500","_2nd_dose_allocations":"8500"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"9300","_2nd_dose_allocations":"9300"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"30500","_2nd_dose_allocations":"30500"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"6400","_2nd_dose_allocations":"6400"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"76200","_2nd_dose_allocations":"76200"}
+,{"jurisdiction":"California","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"428600","_2nd_dose_allocations":"428600"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"15900","_2nd_dose_allocations":"15900"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"32100","_2nd_dose_allocations":"32100"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"17800","_2nd_dose_allocations":"17800"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"46000","_2nd_dose_allocations":"46000"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"81700","_2nd_dose_allocations":"81700"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-04-19T00:00:00.000","_1st_dose_allocations":"149400","_2nd_dose_allocations":"149400"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"37400","_2nd_dose_allocations":"37400"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"14300","_2nd_dose_allocations":"14300"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"72100","_2nd_dose_allocations":"72100"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"14300","_2nd_dose_allocations":"14300"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"11300","_2nd_dose_allocations":"11300"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"6700","_2nd_dose_allocations":"6700"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"91300","_2nd_dose_allocations":"91300"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"116300","_2nd_dose_allocations":"116300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"88300","_2nd_dose_allocations":"88300"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"35700","_2nd_dose_allocations":"35700"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"9900","_2nd_dose_allocations":"9900"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"61600","_2nd_dose_allocations":"61600"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"117500","_2nd_dose_allocations":"117500"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"16300","_2nd_dose_allocations":"16300"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"86500","_2nd_dose_allocations":"86500"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"19300","_2nd_dose_allocations":"19300"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"49800","_2nd_dose_allocations":"49800"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"217400","_2nd_dose_allocations":"217400"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"103000","_2nd_dose_allocations":"103000"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"45300","_2nd_dose_allocations":"45300"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"30000","_2nd_dose_allocations":"30000"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"103900","_2nd_dose_allocations":"103900"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"51000","_2nd_dose_allocations":"51000"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"68100","_2nd_dose_allocations":"68100"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"27700","_2nd_dose_allocations":"27700"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"103100","_2nd_dose_allocations":"103100"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"66900","_2nd_dose_allocations":"66900"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"102600","_2nd_dose_allocations":"102600"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"56200","_2nd_dose_allocations":"56200"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"119300","_2nd_dose_allocations":"119300"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"59700","_2nd_dose_allocations":"59700"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"30200","_2nd_dose_allocations":"30200"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"47000","_2nd_dose_allocations":"47000"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"21400","_2nd_dose_allocations":"21400"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"39200","_2nd_dose_allocations":"39200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"272100","_2nd_dose_allocations":"272100"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"31800","_2nd_dose_allocations":"31800"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"29000","_2nd_dose_allocations":"29000"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"62200","_2nd_dose_allocations":"62200"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"19200","_2nd_dose_allocations":"19200"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"56500","_2nd_dose_allocations":"56500"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"7800","_2nd_dose_allocations":"7800"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"8700","_2nd_dose_allocations":"8700"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"28300","_2nd_dose_allocations":"28300"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"5900","_2nd_dose_allocations":"5900"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"70600","_2nd_dose_allocations":"70600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"397400","_2nd_dose_allocations":"397400"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"14800","_2nd_dose_allocations":"14800"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"29800","_2nd_dose_allocations":"29800"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"16600","_2nd_dose_allocations":"16600"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"42700","_2nd_dose_allocations":"42700"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"75700","_2nd_dose_allocations":"75700"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-04-12T00:00:00.000","_1st_dose_allocations":"149400","_2nd_dose_allocations":"149400"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"37400","_2nd_dose_allocations":"37400"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"14300","_2nd_dose_allocations":"14300"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"72100","_2nd_dose_allocations":"72100"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"14300","_2nd_dose_allocations":"14300"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"11300","_2nd_dose_allocations":"11300"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"6700","_2nd_dose_allocations":"6700"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"91300","_2nd_dose_allocations":"91300"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"116300","_2nd_dose_allocations":"116300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"88300","_2nd_dose_allocations":"88300"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"35700","_2nd_dose_allocations":"35700"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"9900","_2nd_dose_allocations":"9900"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"61600","_2nd_dose_allocations":"61600"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"117500","_2nd_dose_allocations":"117500"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"16300","_2nd_dose_allocations":"16300"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"86500","_2nd_dose_allocations":"86500"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"19300","_2nd_dose_allocations":"19300"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"49800","_2nd_dose_allocations":"49800"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"217400","_2nd_dose_allocations":"217400"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"103000","_2nd_dose_allocations":"103000"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"45300","_2nd_dose_allocations":"45300"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"30000","_2nd_dose_allocations":"30000"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"103900","_2nd_dose_allocations":"103900"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"51000","_2nd_dose_allocations":"51000"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"68100","_2nd_dose_allocations":"68100"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"27700","_2nd_dose_allocations":"27700"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"103100","_2nd_dose_allocations":"103100"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"66900","_2nd_dose_allocations":"66900"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"102600","_2nd_dose_allocations":"102600"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"56200","_2nd_dose_allocations":"56200"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"119300","_2nd_dose_allocations":"119300"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"59700","_2nd_dose_allocations":"59700"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"30200","_2nd_dose_allocations":"30200"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"47000","_2nd_dose_allocations":"47000"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"21400","_2nd_dose_allocations":"21400"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"39200","_2nd_dose_allocations":"39200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"272100","_2nd_dose_allocations":"272100"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"31800","_2nd_dose_allocations":"31800"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"29000","_2nd_dose_allocations":"29000"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"62200","_2nd_dose_allocations":"62200"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"19200","_2nd_dose_allocations":"19200"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"56500","_2nd_dose_allocations":"56500"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"7800","_2nd_dose_allocations":"7800"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"8700","_2nd_dose_allocations":"8700"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"28300","_2nd_dose_allocations":"28300"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"5900","_2nd_dose_allocations":"5900"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"70600","_2nd_dose_allocations":"70600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"397400","_2nd_dose_allocations":"397400"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"14800","_2nd_dose_allocations":"14800"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"29800","_2nd_dose_allocations":"29800"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"16600","_2nd_dose_allocations":"16600"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"42700","_2nd_dose_allocations":"42700"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"75700","_2nd_dose_allocations":"75700"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-04-05T00:00:00.000","_1st_dose_allocations":"143000","_2nd_dose_allocations":"143000"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"35800","_2nd_dose_allocations":"35800"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"69000","_2nd_dose_allocations":"69000"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"6500","_2nd_dose_allocations":"6500"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"87400","_2nd_dose_allocations":"87400"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"84500","_2nd_dose_allocations":"84500"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"34200","_2nd_dose_allocations":"34200"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"9500","_2nd_dose_allocations":"9500"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"7200","_2nd_dose_allocations":"7200"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"59000","_2nd_dose_allocations":"59000"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"112400","_2nd_dose_allocations":"112400"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"82800","_2nd_dose_allocations":"82800"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"47700","_2nd_dose_allocations":"47700"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"208000","_2nd_dose_allocations":"208000"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"98600","_2nd_dose_allocations":"98600"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"28700","_2nd_dose_allocations":"28700"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"99500","_2nd_dose_allocations":"99500"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"48800","_2nd_dose_allocations":"48800"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"65200","_2nd_dose_allocations":"65200"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"26500","_2nd_dose_allocations":"26500"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"98700","_2nd_dose_allocations":"98700"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"64100","_2nd_dose_allocations":"64100"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"98200","_2nd_dose_allocations":"98200"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"53800","_2nd_dose_allocations":"53800"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"114100","_2nd_dose_allocations":"114100"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"57100","_2nd_dose_allocations":"57100"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"45000","_2nd_dose_allocations":"45000"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"20500","_2nd_dose_allocations":"20500"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"37500","_2nd_dose_allocations":"37500"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"260400","_2nd_dose_allocations":"260400"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"30400","_2nd_dose_allocations":"30400"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"27800","_2nd_dose_allocations":"27800"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"59500","_2nd_dose_allocations":"59500"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"18400","_2nd_dose_allocations":"18400"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"54100","_2nd_dose_allocations":"54100"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"10400","_2nd_dose_allocations":"10400"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"8300","_2nd_dose_allocations":"8300"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"27100","_2nd_dose_allocations":"27100"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"5700","_2nd_dose_allocations":"5700"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"67600","_2nd_dose_allocations":"67600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"380300","_2nd_dose_allocations":"380300"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"14200"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"28500","_2nd_dose_allocations":"28500"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"5000","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"15000","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"16800","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"22600","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"5000","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"6200","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"52500","_2nd_dose_allocations":"52500"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"15800","_2nd_dose_allocations":"15800"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"40800","_2nd_dose_allocations":"40800"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"72400","_2nd_dose_allocations":"72400"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-03-29T00:00:00.000","_1st_dose_allocations":"143000","_2nd_dose_allocations":"143000"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"35800","_2nd_dose_allocations":"35800"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"69000","_2nd_dose_allocations":"69000"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"6500","_2nd_dose_allocations":"6500"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"87400","_2nd_dose_allocations":"87400"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"84500","_2nd_dose_allocations":"84500"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"34200","_2nd_dose_allocations":"34200"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"9500","_2nd_dose_allocations":"9500"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"7200","_2nd_dose_allocations":"7200"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"59000","_2nd_dose_allocations":"59000"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"112400","_2nd_dose_allocations":"112400"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"82800","_2nd_dose_allocations":"82800"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"47700","_2nd_dose_allocations":"47700"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"208000","_2nd_dose_allocations":"208000"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"98600","_2nd_dose_allocations":"98600"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"28700","_2nd_dose_allocations":"28700"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"99500","_2nd_dose_allocations":"99500"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"48800","_2nd_dose_allocations":"48800"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"65200","_2nd_dose_allocations":"65200"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"26500","_2nd_dose_allocations":"26500"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"98700","_2nd_dose_allocations":"98700"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"64100","_2nd_dose_allocations":"64100"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"98200","_2nd_dose_allocations":"98200"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"53800","_2nd_dose_allocations":"53800"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"114100","_2nd_dose_allocations":"114100"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"57100","_2nd_dose_allocations":"57100"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"45000","_2nd_dose_allocations":"45000"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"20500","_2nd_dose_allocations":"20500"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"37500","_2nd_dose_allocations":"37500"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"260400","_2nd_dose_allocations":"260400"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"30400","_2nd_dose_allocations":"30400"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"27800","_2nd_dose_allocations":"27800"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"59500","_2nd_dose_allocations":"59500"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"18400","_2nd_dose_allocations":"18400"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"54100","_2nd_dose_allocations":"54100"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"10400","_2nd_dose_allocations":"10400"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"8300","_2nd_dose_allocations":"8300"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"27100","_2nd_dose_allocations":"27100"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"5700","_2nd_dose_allocations":"5700"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"67600","_2nd_dose_allocations":"67600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"380300","_2nd_dose_allocations":"380300"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"14200"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"28500","_2nd_dose_allocations":"28500"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"15800","_2nd_dose_allocations":"15800"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"40800","_2nd_dose_allocations":"40800"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"72400","_2nd_dose_allocations":"72400"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-03-22T00:00:00.000","_1st_dose_allocations":"143000","_2nd_dose_allocations":"143000"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"35800","_2nd_dose_allocations":"35800"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"69000","_2nd_dose_allocations":"69000"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"6500","_2nd_dose_allocations":"6500"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"87400","_2nd_dose_allocations":"87400"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"84500","_2nd_dose_allocations":"84500"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"34200","_2nd_dose_allocations":"34200"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"9500","_2nd_dose_allocations":"9500"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"7200","_2nd_dose_allocations":"7200"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"59000","_2nd_dose_allocations":"59000"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"112400","_2nd_dose_allocations":"112400"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"82800","_2nd_dose_allocations":"82800"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"47700","_2nd_dose_allocations":"47700"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"208000","_2nd_dose_allocations":"208000"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"98600","_2nd_dose_allocations":"98600"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"28700","_2nd_dose_allocations":"28700"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"99500","_2nd_dose_allocations":"99500"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"48800","_2nd_dose_allocations":"48800"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"65200","_2nd_dose_allocations":"65200"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"26500","_2nd_dose_allocations":"26500"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"98700","_2nd_dose_allocations":"98700"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"64100","_2nd_dose_allocations":"64100"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"98200","_2nd_dose_allocations":"98200"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"53800","_2nd_dose_allocations":"53800"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"114100","_2nd_dose_allocations":"114100"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"57100","_2nd_dose_allocations":"57100"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"45000","_2nd_dose_allocations":"45000"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"20500","_2nd_dose_allocations":"20500"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"37500","_2nd_dose_allocations":"37500"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"260400","_2nd_dose_allocations":"260400"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"30400","_2nd_dose_allocations":"30400"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"27800","_2nd_dose_allocations":"27800"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"59500","_2nd_dose_allocations":"59500"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"18400","_2nd_dose_allocations":"18400"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"54100","_2nd_dose_allocations":"54100"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"10400","_2nd_dose_allocations":"10400"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"8300","_2nd_dose_allocations":"8300"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"27100","_2nd_dose_allocations":"27100"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"5700","_2nd_dose_allocations":"5700"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"67600","_2nd_dose_allocations":"67600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"380300","_2nd_dose_allocations":"380300"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"14200"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"28500","_2nd_dose_allocations":"28500"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"15800","_2nd_dose_allocations":"15800"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"40800","_2nd_dose_allocations":"40800"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"72400","_2nd_dose_allocations":"72400"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-03-15T00:00:00.000","_1st_dose_allocations":"143000","_2nd_dose_allocations":"143000"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"35800","_2nd_dose_allocations":"35800"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"69000","_2nd_dose_allocations":"69000"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"6500","_2nd_dose_allocations":"6500"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"87400","_2nd_dose_allocations":"87400"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"84500","_2nd_dose_allocations":"84500"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"34200","_2nd_dose_allocations":"34200"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"9500","_2nd_dose_allocations":"9500"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"7200","_2nd_dose_allocations":"7200"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"59000","_2nd_dose_allocations":"59000"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"112400","_2nd_dose_allocations":"112400"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"82800","_2nd_dose_allocations":"82800"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"47700","_2nd_dose_allocations":"47700"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"208000","_2nd_dose_allocations":"208000"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"98600","_2nd_dose_allocations":"98600"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"28700","_2nd_dose_allocations":"28700"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"99500","_2nd_dose_allocations":"99500"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"48800","_2nd_dose_allocations":"48800"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"65200","_2nd_dose_allocations":"65200"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"26500","_2nd_dose_allocations":"26500"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"98700","_2nd_dose_allocations":"98700"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"64100","_2nd_dose_allocations":"64100"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"98200","_2nd_dose_allocations":"98200"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"53800","_2nd_dose_allocations":"53800"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"114100","_2nd_dose_allocations":"114100"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"57100","_2nd_dose_allocations":"57100"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"45000","_2nd_dose_allocations":"45000"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"20500","_2nd_dose_allocations":"20500"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"37500","_2nd_dose_allocations":"37500"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"260400","_2nd_dose_allocations":"260400"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"30400","_2nd_dose_allocations":"30400"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"27800","_2nd_dose_allocations":"27800"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"59500","_2nd_dose_allocations":"59500"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"18400","_2nd_dose_allocations":"18400"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"54100","_2nd_dose_allocations":"54100"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"10400","_2nd_dose_allocations":"10400"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"8300","_2nd_dose_allocations":"8300"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"27100","_2nd_dose_allocations":"27100"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"5700","_2nd_dose_allocations":"5700"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"67600","_2nd_dose_allocations":"67600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"380300","_2nd_dose_allocations":"380300"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"14200"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"28500","_2nd_dose_allocations":"28500"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"15800","_2nd_dose_allocations":"15800"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"40800","_2nd_dose_allocations":"40800"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"72400","_2nd_dose_allocations":"72400"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-03-08T00:00:00.000","_1st_dose_allocations":"197900","_2nd_dose_allocations":"193500"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"47700","_2nd_dose_allocations":"47700"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"49300","_2nd_dose_allocations":"49300"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"4400","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"67600","_2nd_dose_allocations":"67600"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"California","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"380300","_2nd_dose_allocations":"380300"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"26500","_2nd_dose_allocations":"26500"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"54100","_2nd_dose_allocations":"54100"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"35800","_2nd_dose_allocations":"35800"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"9500","_2nd_dose_allocations":"9500"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"7200","_2nd_dose_allocations":"7200"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"180500","_2nd_dose_allocations":"163500"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"208000","_2nd_dose_allocations":"208000"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"98600","_2nd_dose_allocations":"98600"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"14200"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"15800","_2nd_dose_allocations":"15800"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"98700","_2nd_dose_allocations":"98700"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"64100","_2nd_dose_allocations":"64100"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"30400","_2nd_dose_allocations":"30400"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"27800","_2nd_dose_allocations":"27800"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"45000","_2nd_dose_allocations":"45000"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"4600","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"14000","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"59000","_2nd_dose_allocations":"59000"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"69000","_2nd_dose_allocations":"69000"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"98200","_2nd_dose_allocations":"98200"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"16600","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"53800","_2nd_dose_allocations":"53800"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"28700","_2nd_dose_allocations":"28700"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"59500","_2nd_dose_allocations":"59500"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"10400","_2nd_dose_allocations":"10400"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"18400","_2nd_dose_allocations":"18400"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"28500","_2nd_dose_allocations":"28500"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"87400","_2nd_dose_allocations":"87400"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"20500","_2nd_dose_allocations":"20500"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"84500","_2nd_dose_allocations":"84500"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"99500","_2nd_dose_allocations":"99500"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"114100","_2nd_dose_allocations":"114100"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"37500","_2nd_dose_allocations":"37500"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"40800","_2nd_dose_allocations":"40800"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"5400","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"112400","_2nd_dose_allocations":"112400"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"34200","_2nd_dose_allocations":"34200"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"48800","_2nd_dose_allocations":"48800"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"8300","_2nd_dose_allocations":"8300"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"65200","_2nd_dose_allocations":"65200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"260400","_2nd_dose_allocations":"260400"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"27100","_2nd_dose_allocations":"27100"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"6500","_2nd_dose_allocations":"6500"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"82800","_2nd_dose_allocations":"82800"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"72400","_2nd_dose_allocations":"72400"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"57100","_2nd_dose_allocations":"57100"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-03-01T00:00:00.000","_1st_dose_allocations":"5700","_2nd_dose_allocations":"5700"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"47700","_2nd_dose_allocations":"47700"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"67600","_2nd_dose_allocations":"67600"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"California","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"380300","_2nd_dose_allocations":"380300"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"26500","_2nd_dose_allocations":"26500"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"54100","_2nd_dose_allocations":"54100"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"35800","_2nd_dose_allocations":"35800"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"9500","_2nd_dose_allocations":"9500"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"7200","_2nd_dose_allocations":"7200"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"163500","_2nd_dose_allocations":"163500"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"208000","_2nd_dose_allocations":"208000"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"98600","_2nd_dose_allocations":"98600"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"14200"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"15800","_2nd_dose_allocations":"15800"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"98700","_2nd_dose_allocations":"98700"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"64100","_2nd_dose_allocations":"64100"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"30400","_2nd_dose_allocations":"30400"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"27800","_2nd_dose_allocations":"27800"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"45000","_2nd_dose_allocations":"45000"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"59000","_2nd_dose_allocations":"59000"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"69000","_2nd_dose_allocations":"69000"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"98200","_2nd_dose_allocations":"98200"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"53800","_2nd_dose_allocations":"53800"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"28700","_2nd_dose_allocations":"28700"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"59500","_2nd_dose_allocations":"59500"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"10400","_2nd_dose_allocations":"10400"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"18400","_2nd_dose_allocations":"18400"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"28500","_2nd_dose_allocations":"28500"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"87400","_2nd_dose_allocations":"87400"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"20500","_2nd_dose_allocations":"20500"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"84500","_2nd_dose_allocations":"84500"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"99500","_2nd_dose_allocations":"99500"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"114100","_2nd_dose_allocations":"114100"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"37500","_2nd_dose_allocations":"37500"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"40800","_2nd_dose_allocations":"40800"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"112400","_2nd_dose_allocations":"112400"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"34200","_2nd_dose_allocations":"34200"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"48800","_2nd_dose_allocations":"48800"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"8300","_2nd_dose_allocations":"8300"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"65200","_2nd_dose_allocations":"65200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"260400","_2nd_dose_allocations":"260400"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"27100","_2nd_dose_allocations":"27100"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"6500","_2nd_dose_allocations":"6500"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"82800","_2nd_dose_allocations":"82800"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"72400","_2nd_dose_allocations":"72400"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"57100","_2nd_dose_allocations":"57100"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-02-22T00:00:00.000","_1st_dose_allocations":"5700","_2nd_dose_allocations":"5700"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"47700","_2nd_dose_allocations":"47700"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"67600","_2nd_dose_allocations":"67600"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"California","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"380300","_2nd_dose_allocations":"380300"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"26500","_2nd_dose_allocations":"26500"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"54100","_2nd_dose_allocations":"54100"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"35800","_2nd_dose_allocations":"35800"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"9500","_2nd_dose_allocations":"9500"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"7200","_2nd_dose_allocations":"7200"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"163500","_2nd_dose_allocations":"163500"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"208000","_2nd_dose_allocations":"208000"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"98600","_2nd_dose_allocations":"98600"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"14200","_2nd_dose_allocations":"14200"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"15800","_2nd_dose_allocations":"15800"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"98700","_2nd_dose_allocations":"98700"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"64100","_2nd_dose_allocations":"64100"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"30400","_2nd_dose_allocations":"30400"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"27800","_2nd_dose_allocations":"27800"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"45000","_2nd_dose_allocations":"45000"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"59000","_2nd_dose_allocations":"59000"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"69000","_2nd_dose_allocations":"69000"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"98200","_2nd_dose_allocations":"98200"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"53800","_2nd_dose_allocations":"53800"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"28700","_2nd_dose_allocations":"28700"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"59500","_2nd_dose_allocations":"59500"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"10400","_2nd_dose_allocations":"10400"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"18400","_2nd_dose_allocations":"18400"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"28500","_2nd_dose_allocations":"28500"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"13700","_2nd_dose_allocations":"13700"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"87400","_2nd_dose_allocations":"87400"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"20500","_2nd_dose_allocations":"20500"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"111300","_2nd_dose_allocations":"111300"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"84500","_2nd_dose_allocations":"84500"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"99500","_2nd_dose_allocations":"99500"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"7500","_2nd_dose_allocations":"7500"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"114100","_2nd_dose_allocations":"114100"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"37500","_2nd_dose_allocations":"37500"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"40800","_2nd_dose_allocations":"40800"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"112400","_2nd_dose_allocations":"112400"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"34200","_2nd_dose_allocations":"34200"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"10800","_2nd_dose_allocations":"10800"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"48800","_2nd_dose_allocations":"48800"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"8300","_2nd_dose_allocations":"8300"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"65200","_2nd_dose_allocations":"65200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"260400","_2nd_dose_allocations":"260400"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"1100","_2nd_dose_allocations":"1100"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"27100","_2nd_dose_allocations":"27100"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"6500","_2nd_dose_allocations":"6500"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"82800","_2nd_dose_allocations":"82800"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"72400","_2nd_dose_allocations":"72400"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"57100","_2nd_dose_allocations":"57100"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-02-15T00:00:00.000","_1st_dose_allocations":"5700","_2nd_dose_allocations":"5700"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"44100","_2nd_dose_allocations":"44100"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"62500","_2nd_dose_allocations":"62500"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"26800","_2nd_dose_allocations":"26800"}
+,{"jurisdiction":"California","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"351900","_2nd_dose_allocations":"351900"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"24500","_2nd_dose_allocations":"24500"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"50000","_2nd_dose_allocations":"50000"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"33100","_2nd_dose_allocations":"33100"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"8800","_2nd_dose_allocations":"8800"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"6600","_2nd_dose_allocations":"6600"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"481400","_2nd_dose_allocations":"481400"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"192500","_2nd_dose_allocations":"192500"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"91300","_2nd_dose_allocations":"91300"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"13100","_2nd_dose_allocations":"13100"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"14700","_2nd_dose_allocations":"14700"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"91300","_2nd_dose_allocations":"91300"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"59300","_2nd_dose_allocations":"59300"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"28200","_2nd_dose_allocations":"28200"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"25700","_2nd_dose_allocations":"25700"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"40200","_2nd_dose_allocations":"40200"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"41600","_2nd_dose_allocations":"41600"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"12700","_2nd_dose_allocations":"12700"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"54600","_2nd_dose_allocations":"54600"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"63800","_2nd_dose_allocations":"63800"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"90900","_2nd_dose_allocations":"90900"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"49700","_2nd_dose_allocations":"49700"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"26600","_2nd_dose_allocations":"26600"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"55100","_2nd_dose_allocations":"55100"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"9600","_2nd_dose_allocations":"9600"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"17000","_2nd_dose_allocations":"17000"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"26400","_2nd_dose_allocations":"26400"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"12700","_2nd_dose_allocations":"12700"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"80900","_2nd_dose_allocations":"80900"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"19000","_2nd_dose_allocations":"19000"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"103000","_2nd_dose_allocations":"103000"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"78200","_2nd_dose_allocations":"78200"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"92000","_2nd_dose_allocations":"92000"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"6900","_2nd_dose_allocations":"6900"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"105600","_2nd_dose_allocations":"105600"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"34700","_2nd_dose_allocations":"34700"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"37800","_2nd_dose_allocations":"37800"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"104000","_2nd_dose_allocations":"104000"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"14400","_2nd_dose_allocations":"14400"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"31600","_2nd_dose_allocations":"31600"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"10000","_2nd_dose_allocations":"10000"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"45200","_2nd_dose_allocations":"45200"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"7700","_2nd_dose_allocations":"7700"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"60300","_2nd_dose_allocations":"60300"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"241000","_2nd_dose_allocations":"241000"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"1000","_2nd_dose_allocations":"1000"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"25100","_2nd_dose_allocations":"25100"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"6000","_2nd_dose_allocations":"6000"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"76600","_2nd_dose_allocations":"76600"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"67000","_2nd_dose_allocations":"67000"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"17100","_2nd_dose_allocations":"17100"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"52900","_2nd_dose_allocations":"52900"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-02-08T00:00:00.000","_1st_dose_allocations":"5300","_2nd_dose_allocations":"5300"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"40400","_2nd_dose_allocations":"40400"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"32300","_2nd_dose_allocations":"32300"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"3200","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"57200","_2nd_dose_allocations":"57200"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"24500","_2nd_dose_allocations":"24500"}
+,{"jurisdiction":"California","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"322000","_2nd_dose_allocations":"322000"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"22400","_2nd_dose_allocations":"22400"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"45800","_2nd_dose_allocations":"45800"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"30300","_2nd_dose_allocations":"30300"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"8000","_2nd_dose_allocations":"8000"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"6100","_2nd_dose_allocations":"6100"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"151180","_2nd_dose_allocations":"151800"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"176100","_2nd_dose_allocations":"176100"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"83500","_2nd_dose_allocations":"83500"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"9200","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"12000","_2nd_dose_allocations":"12000"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"13400","_2nd_dose_allocations":"13400"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"83600","_2nd_dose_allocations":"83600"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"54300","_2nd_dose_allocations":"54300"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"25800","_2nd_dose_allocations":"25800"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"23500","_2nd_dose_allocations":"23500"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"36700","_2nd_dose_allocations":"36700"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"38100","_2nd_dose_allocations":"38100"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"11600","_2nd_dose_allocations":"11600"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"3200","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"6600","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"49900","_2nd_dose_allocations":"49900"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"58400","_2nd_dose_allocations":"58400"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"83100","_2nd_dose_allocations":"83100"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"9400","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"45500","_2nd_dose_allocations":"45500"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"24300","_2nd_dose_allocations":"24300"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"50400","_2nd_dose_allocations":"50400"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"8800","_2nd_dose_allocations":"8800"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"15500","_2nd_dose_allocations":"15500"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"24100","_2nd_dose_allocations":"24100"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"11600","_2nd_dose_allocations":"11600"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"74000","_2nd_dose_allocations":"74000"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"17300","_2nd_dose_allocations":"17300"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"94200","_2nd_dose_allocations":"94200"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"71500","_2nd_dose_allocations":"71500"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"84200","_2nd_dose_allocations":"84200"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"6400","_2nd_dose_allocations":"6400"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"96600","_2nd_dose_allocations":"96600"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"31700","_2nd_dose_allocations":"31700"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"34600","_2nd_dose_allocations":"34600"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"2800","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"95200","_2nd_dose_allocations":"95200"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"13200","_2nd_dose_allocations":"13200"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"9100","_2nd_dose_allocations":"9100"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"41400","_2nd_dose_allocations":"41400"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"7000","_2nd_dose_allocations":"7000"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"55200","_2nd_dose_allocations":"55200"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"220500","_2nd_dose_allocations":"220500"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"900","_2nd_dose_allocations":"900"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"22900","_2nd_dose_allocations":"22900"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"5500","_2nd_dose_allocations":"5500"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"70100","_2nd_dose_allocations":"70100"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"61300","_2nd_dose_allocations":"61300"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"15600","_2nd_dose_allocations":"15600"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"48300","_2nd_dose_allocations":"48300"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-02-01T00:00:00.000","_1st_dose_allocations":"4800","_2nd_dose_allocations":"4800"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"30600","_2nd_dose_allocations":"30600"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"18600","_2nd_dose_allocations":"18600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"244000","_2nd_dose_allocations":"244000"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"17000","_2nd_dose_allocations":"17000"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"34700","_2nd_dose_allocations":"34700"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"23000","_2nd_dose_allocations":"23000"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"6100","_2nd_dose_allocations":"6100"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"4600","_2nd_dose_allocations":"4600"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"105300","_2nd_dose_allocations":"105300"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"133500","_2nd_dose_allocations":"133500"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"63300","_2nd_dose_allocations":"63300"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"9100","_2nd_dose_allocations":"9100"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"10200","_2nd_dose_allocations":"10200"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"63300","_2nd_dose_allocations":"63300"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"41100","_2nd_dose_allocations":"41100"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"19500","_2nd_dose_allocations":"19500"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"17800","_2nd_dose_allocations":"17800"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"27900","_2nd_dose_allocations":"27900"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"8800","_2nd_dose_allocations":"8800"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"37800","_2nd_dose_allocations":"37800"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"44300","_2nd_dose_allocations":"44300"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"63000","_2nd_dose_allocations":"63000"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"34500","_2nd_dose_allocations":"34500"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"38200","_2nd_dose_allocations":"38200"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"6700","_2nd_dose_allocations":"6700"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"11800","_2nd_dose_allocations":"11800"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"18300","_2nd_dose_allocations":"18300"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"8800","_2nd_dose_allocations":"8800"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"56100","_2nd_dose_allocations":"56100"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"13200","_2nd_dose_allocations":"13200"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"71400","_2nd_dose_allocations":"71400"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"54200","_2nd_dose_allocations":"54200"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"63800","_2nd_dose_allocations":"63800"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"4800","_2nd_dose_allocations":"4800"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"73200","_2nd_dose_allocations":"73200"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"24100","_2nd_dose_allocations":"24100"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"26200","_2nd_dose_allocations":"26200"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"72100","_2nd_dose_allocations":"72100"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"10000","_2nd_dose_allocations":"10000"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"21900","_2nd_dose_allocations":"21900"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"6900","_2nd_dose_allocations":"6900"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"31400","_2nd_dose_allocations":"31400"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"5300","_2nd_dose_allocations":"5300"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"41800","_2nd_dose_allocations":"41800"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"167100","_2nd_dose_allocations":"167100"}
+,{"jurisdiction":"U.S. Virgin Islands","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"700","_2nd_dose_allocations":"700"}
+,{"jurisdiction":"Utah","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"17400","_2nd_dose_allocations":"17400"}
+,{"jurisdiction":"Vermont","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"4200","_2nd_dose_allocations":"4200"}
+,{"jurisdiction":"Virginia","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"53100","_2nd_dose_allocations":"53100"}
+,{"jurisdiction":"Washington","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"46500","_2nd_dose_allocations":"46500"}
+,{"jurisdiction":"West Virginia","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"11900","_2nd_dose_allocations":"11900"}
+,{"jurisdiction":"Wisconsin","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"36700","_2nd_dose_allocations":"36700"}
+,{"jurisdiction":"Wyoming","week_of_allocations":"2021-01-25T00:00:00.000","_1st_dose_allocations":"3700","_2nd_dose_allocations":"3700"}
+,{"jurisdiction":"Alabama","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"30600","_2nd_dose_allocations":"30600"}
+,{"jurisdiction":"Alaska","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"American Samoa","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Arizona","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"43400","_2nd_dose_allocations":"43400"}
+,{"jurisdiction":"Arkansas","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"18600","_2nd_dose_allocations":"18600"}
+,{"jurisdiction":"California","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"244000","_2nd_dose_allocations":"244000"}
+,{"jurisdiction":"Chicago","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"17000","_2nd_dose_allocations":"17000"}
+,{"jurisdiction":"Colorado","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"34700","_2nd_dose_allocations":"34700"}
+,{"jurisdiction":"Connecticut","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"23000","_2nd_dose_allocations":"23000"}
+,{"jurisdiction":"Delaware","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"6100","_2nd_dose_allocations":"6100"}
+,{"jurisdiction":"District of Columbia","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"4600","_2nd_dose_allocations":"4600"}
+,{"jurisdiction":"Federal Entities","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"105000","_2nd_dose_allocations":"105000"}
+,{"jurisdiction":"Florida","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"133500","_2nd_dose_allocations":"133500"}
+,{"jurisdiction":"Georgia","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"63300","_2nd_dose_allocations":"63300"}
+,{"jurisdiction":"Guam","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Hawaii","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"9100","_2nd_dose_allocations":"9100"}
+,{"jurisdiction":"Idaho","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"10200","_2nd_dose_allocations":"10200"}
+,{"jurisdiction":"Illinois","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"63300","_2nd_dose_allocations":"63300"}
+,{"jurisdiction":"Indiana","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"41100","_2nd_dose_allocations":"41100"}
+,{"jurisdiction":"Iowa","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"19500","_2nd_dose_allocations":"19500"}
+,{"jurisdiction":"Kansas","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"17800","_2nd_dose_allocations":"17800"}
+,{"jurisdiction":"Kentucky","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"27900","_2nd_dose_allocations":"27900"}
+,{"jurisdiction":"Louisiana","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"28900","_2nd_dose_allocations":"28900"}
+,{"jurisdiction":"Maine","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"8800","_2nd_dose_allocations":"8800"}
+,{"jurisdiction":"Mariana Islands","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Marshall Islands","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Maryland","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"37800","_2nd_dose_allocations":"37800"}
+,{"jurisdiction":"Massachusetts","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"44300","_2nd_dose_allocations":"44300"}
+,{"jurisdiction":"Michigan","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"63000","_2nd_dose_allocations":"63000"}
+,{"jurisdiction":"Micronesia","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Minnesota","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"34500","_2nd_dose_allocations":"34500"}
+,{"jurisdiction":"Mississippi","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"18500","_2nd_dose_allocations":"18500"}
+,{"jurisdiction":"Missouri","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"38200","_2nd_dose_allocations":"38200"}
+,{"jurisdiction":"Montana","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"6700","_2nd_dose_allocations":"6700"}
+,{"jurisdiction":"Nebraska","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"11800","_2nd_dose_allocations":"11800"}
+,{"jurisdiction":"Nevada","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"18300","_2nd_dose_allocations":"18300"}
+,{"jurisdiction":"New Hampshire","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"8800","_2nd_dose_allocations":"8800"}
+,{"jurisdiction":"New Jersey","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"56100","_2nd_dose_allocations":"56100"}
+,{"jurisdiction":"New Mexico","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"13200","_2nd_dose_allocations":"13200"}
+,{"jurisdiction":"New York","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"71400","_2nd_dose_allocations":"71400"}
+,{"jurisdiction":"New York City","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"54200","_2nd_dose_allocations":"54200"}
+,{"jurisdiction":"North Carolina","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"63800","_2nd_dose_allocations":"63800"}
+,{"jurisdiction":"North Dakota","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"4800","_2nd_dose_allocations":"4800"}
+,{"jurisdiction":"Ohio","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"73200","_2nd_dose_allocations":"73200"}
+,{"jurisdiction":"Oklahoma","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"24100","_2nd_dose_allocations":"24100"}
+,{"jurisdiction":"Oregon","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"26200","_2nd_dose_allocations":"26200"}
+,{"jurisdiction":"Palau","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"0","_2nd_dose_allocations":"0"}
+,{"jurisdiction":"Pennsylvania","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"72100","_2nd_dose_allocations":"72100"}
+,{"jurisdiction":"Philadelphia","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"10000","_2nd_dose_allocations":"10000"}
+,{"jurisdiction":"Puerto Rico","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"21900","_2nd_dose_allocations":"21900"}
+,{"jurisdiction":"Rhode Island","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"6900","_2nd_dose_allocations":"6900"}
+,{"jurisdiction":"South Carolina","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"31400","_2nd_dose_allocations":"31400"}
+,{"jurisdiction":"South Dakota","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"5300","_2nd_dose_allocations":"5300"}
+,{"jurisdiction":"Tennessee","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"41800","_2nd_dose_allocations":"41800"}
+,{"jurisdiction":"Texas","week_of_allocations":"2021-01-18T00:00:00.000","_1st_dose_allocations":"167100","_2nd_dose_allocations":"167100"}]

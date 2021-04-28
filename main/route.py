@@ -2,7 +2,8 @@ import os
 from main import app, db
 from flask import render_template, send_from_directory
 
-allocation = db.Table('jassen_allocation',db.metadata, autoload=True, autoload_with=db.engine)
+pfizer = db.Table('Pfizer_allocation',db.metadata, autoload=True, autoload_with=db.engine)
+moderna = db.Table('Moderna_allocation',db.metadata, autoload=True, autoload_with=db.engine)
 
 @app.route('/')
 @app.route('/map')
@@ -16,5 +17,10 @@ def favicon():
 
 @app.route('/table')
 def table_page():
-    entry = db.session.query(allocation).all()
+    entry = db.session.query(pfizer).all()
     return render_template('table.html',items=entry)
+
+@app.route('/table2')
+def table2_page():
+    entry = db.session.query(moderna).all()
+    return render_template('table2.html',items=entry)

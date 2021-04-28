@@ -12,26 +12,26 @@ The US Covid-19 Vaccinations is a simple web application presenting the recent p
 ```
 ┣run.py
 ┣main
-    ┣static
-        ┣assets
-            ┣css
-            ┣img
-            ┣js
-            ┣vendor
-        ┣img
-    ┣templates
-        ┣figure
-            ┣moderna.html
-            ┣pfizer.html
-        ┣base.html
-        ┣index.html
-        ┣table.html
-    ┣generator
-        ┣map
-        ┣db
-    ┣__init__.py
-    ┣route.py
-    ┣vaccine.db
+    └──static
+        ├──img
+        ├──assets
+            ├──css
+            ├──img
+            ├──js
+            ├──vendor
+    ├──templates
+        ├──base.html
+        ├──index.html
+        ├──table.html
+        ├──figure
+            ├──moderna.html
+            ├──pfizer.html
+    ├──generator
+        ├──map
+        ├──db
+    ├──__init__.py
+    ├──route.py
+    ├──vaccine.db
 ```
 
 
@@ -43,4 +43,4 @@ All data are obtained from [Data.CDC.gov](https://data.cdc.gov/browse?category=V
 * Data analysis, Visualization: Lucy Lin [@lucylin1997](https://github.com/lucylin1997), Wenyue Zhuo [@jennyzz17](https://github.com/jennyzz17)
 
 ## Architecture  
-This application uses [Flask](https://flask.palletsprojects.com/en/1.1.x/) framwork and SQLite database. [Ploty](https://plotly.com/) and [mpld3](https://mpld3.github.io/) are used for visualization.
+This application uses [Flask](https://flask.palletsprojects.com/en/1.1.x/) framwork, SQLite database and deployed in [Heroku](www.heroku.com). [Ploty](https://plotly.com/) is used for visualization.
