@@ -1,10 +1,10 @@
 # **US Covid-19 Vaccination Visualization Project**  
-The US Covid-19 Vaccinations is a simple web application presenting the recent progress of COVID-19 vaccinations in United States for each state based on data from CDC. This project has been served at Heroku, online access link [here](https://rocky-chamber-42445.herokuapp.com/)
+The US Covid-19 Vaccinations is a simple web application presenting the recent progress of COVID-19 vaccinations in United States for each state based on data from CDC. This project has been served at Heroku, online access link [here](https://rocky-chamber-42445.herokuapp.com/).
 
 ## Snapshot
 ![snapshot](main/static/img/snapshot.png)
 
-## **Features**  
+## **Features Intended to Implement**  
 1. Interactive US Map: Create an interative US map visualizing the current total doses allocation by state/territory.
 2. Time slider: Plot the comparison of vaccine allocations between Pfizer and Moderna with a slider showing the allocaion history.
 3. Race plot: Provide an animation for top 10 most allocated states over time.
@@ -38,8 +38,8 @@ The US Covid-19 Vaccinations is a simple web application presenting the recent p
     ├──vaccine.db
 ```
 
-## Run locally
-Enter the root directory. Use command `export FLASK_APP=main` in linux environment and run `flask run`.
+## Serve locally
+Enter the root directory. Command `export FLASK_APP=main` in linux environment and run `flask run`
 
 ## **Data Source**  
 All data are obtained from [Data.CDC.gov](https://data.cdc.gov/browse?category=Vaccinations)
