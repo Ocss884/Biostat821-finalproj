@@ -34,6 +34,8 @@ The US Covid-19 Vaccinations is a simple web application presenting the recent p
     ├──vaccine.db
 ```
 
+## Serve locally
+Enter the root directory. Command `export FLASK_APP=main` in linux environment and run `flask run`
 
 ## **Data Source**  
 All data are obtained from [Data.CDC.gov](https://data.cdc.gov/browse?category=Vaccinations)
