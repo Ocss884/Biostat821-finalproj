@@ -1,0 +1,110 @@
+{% extends 'base.html' %}
+{% block title %}
+<img src="static/img/DUSOM_dept_biostat.jpg" alt="Italian Trulli">
+{% endblock%}
+{% block content %}
+<section id="hero" class="d-flex align-items-center">
+  <div class="container position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+    <div class="row justify-content-center">
+      <div class="col-xl-7 col-lg-9 text-center">
+        <h1>Vaccine Map</h1>
+        <h2>Allocation status of Pfizer & Moderna</h2>
+      </div>
+    </div>
+    <!-- <div class="text-center">
+      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+    </div> -->
+  </div>
+</section>
+<section id="map" class="about">
+  <section id="pfizer" class="about">
+    <div class="section-title">
+      <h2>Pfizer</h2>
+      <center>
+        {% include 'figure/pfizer.html' %}
+      </center>
+  </section>
+  <section id="moderna" class="about">
+    <div class="section-title">
+      <h2>Moderna</h2>
+    </div>
+    <center>
+      {% include 'figure/moderna.html' %}
+    </center>
+  </section>
+</section>
+
+<!-- ======= About Section ======= -->
+<section id="about" class="testimonials">
+  <div class="container aos-init aos-animate" data-aos="fade-up">
+    <div class="section-title">
+      <h2>About US</h2>
+      <p>We are three students from Duke University School of Medicine, Dept of Biostatistics & Bioinformatics (B&B). The goal of this website is to make Covid-19 vaccine statistics more understandable through visualizations (with <a href="https://plotly.com/">Plotly</a>). Hope everything, everyone could come back safely in Fall 2021!</p>
+    </div>
+    <div class="owl-carousel testimonials-carousel">
+          <div class="testimonial-item">
+            <img src="static/assets/img/teams/Jenny.jpg" class="testimonial-img" alt="Jenny Zhuo">
+            <h3><a href="https://github.com/jennyzz17">Jenny Zhuo</a></h3>
+            <h4>Here</h4>
+          </div>
+          <div class="testimonial-item">
+            <img src="static/assets/img/teams/ash.png" class="testimonial-img" alt="Junrong Lin">
+            <h3><a href="https://github.com/Ocss884">Junrong Lin</a></h3>
+            <h4>Where</h4>
+          </div>
+          <div class="testimonial-item">  
+            <img src="static/assets/img/teams/lucy.jpg" class="testimonial-img" alt="Lucy Lin">
+            <h3><a href="https://github.com/lucylin1997">Lucy Lin</a></h3>
+            <h4>There</h4>
+          </div>
+    </div>
+  </div>
+</section>
+<!-- End About Section -->
+<!-- ======= Contact Section ======= -->
+<section id="contact" class="contact">
+  <div class="container aos-init aos-animate" data-aos="fade-up">
+
+    <div class="section-title">
+      <h2>Contact</h2>
+    </div>
+
+    <div>
+      <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4986.424015168291!2d-78.93940019236105!3d36.00895362623975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4250c698d12c2f19!2sHock%20Plaza!5e0!3m2!1sen!2sus!4v1619526673097!5m2!1sen!2sus" frameborder="0" allowfullscreen=""></iframe>
+    </div>
+    <div class="row mt-5">
+      <div class="col-lg-4">
+        <div class="info">
+          <div class="address">
+            <i class="icofont-google-map"></i>
+            <h4>Location:</h4>
+            <p>2424 Erwin Rd, Durham, NC 27705</p>
+          </div>
+
+          <div class="email">
+            <i class="icofont-envelope"></i>
+            <h4>Email:</h4>
+            <p>junrong.lin@duke.edu</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Contact Section -->
+  <!-- Vendor JS Files -->
+  <script src="static/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="static/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="static/assets/vendor/php-email-form/validate.js"></script>
+  <script src="static/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="static/assets/vendor/counterup/counterup.min.js"></script>
+  <script src="static/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="static/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="static/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="static/assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="static/assets/js/main.js"></script>
+{% endblock%}
