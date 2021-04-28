@@ -1,3 +1,4 @@
+"""Create vaccine database and insert pfizer and moderna vaccine data into the db"""
 import sqlite3
 from time import sleep
 #import uuid
