@@ -1,5 +1,4 @@
 attrs==20.3.0
-bar_chart_race==0.2.0
 click==7.1.2
 cycler==0.10.0
 fastapi==0.63.0
