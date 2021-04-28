@@ -8,6 +8,33 @@ The US Covid-19 Vaccinations is a simple web application presenting the recent p
 4. Bubble Plot by Companies: Visualize the allocation of Pfizer, Moderna, and Johnson & Johnson vaccines in each state; Create a drop-down list for user's choices of interest.
 5. Stats Table: Present the proportion of people who have finished two doses of vaccinations in each state; Create a drop-down list for user's choices of interest for states.
 
+## Directory Tree
+```
+┣run.py
+┣main
+    ┣static
+        ┣assets
+            ┣css
+            ┣img
+            ┣js
+            ┣vendor
+        ┣img
+    ┣templates
+        ┣figure
+            ┣moderna.html
+            ┣pfizer.html
+        ┣base.html
+        ┣index.html
+        ┣table.html
+    ┣generator
+        ┣map
+        ┣db
+    ┣__init__.py
+    ┣route.py
+    ┣vaccine.db
+```
+
+
 ## **Data Source**  
 All data are obtained from [Data.CDC.gov](https://data.cdc.gov/browse?category=Vaccinations)
 
